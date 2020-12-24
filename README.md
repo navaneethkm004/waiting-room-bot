@@ -53,3 +53,7 @@ async function radioexecuteadmin() {
                     align="center"
                 />
             </a></div>
+            
+## Credit
+
+[@Tomato6966](https://github.com/Tomato6966/) For the great bot!!
