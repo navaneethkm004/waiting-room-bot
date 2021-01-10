@@ -1,4 +1,4 @@
-## Discord-Waitingroom-Bot
+[![waiting-room-bot](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=waiting-room-bot&theme=dark)](https://github.com/navaneethkm004/waiting-room-bot)</br>
 
 A basic, easy to setup Waiting Room Bot to play an audiofile on your pc / a stream!
 
